@@ -14,7 +14,7 @@
 * matplotlib
 
 
-В каталоги ./audio и ./test перед запуском проекта необходимо поместить обучающие и тестовые wav файлы из соответствующих каталогов по ссылке https://drive.google.com/open?id=1_UQRTDw_lQfF6e6QoqojGrG1J5Rzpxee
+Перед запуском в корневой каталог проекта необходимо поместить каталоги ./audio и ./test с обучающими и тестовыми wav файлами из базы акустических событий по ссылке https://drive.google.com/open?id=1_UQRTDw_lQfF6e6QoqojGrG1J5Rzpxee
 
 
 ## Запуск
