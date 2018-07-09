@@ -12,7 +12,7 @@
 * numpy
 
 
-В директории sound-classifier/audio и sound-classifier/test перед запуском проекта необходимо поместить обучающие и тестовые данные из соответствующих директорий по ссылке
+В директории sound-classifier/audio и sound-classifier/test перед запуском проекта необходимо поместить обучающие и тестовые данные из соответствующих директорий по ссылке https://drive.google.com/open?id=1_UQRTDw_lQfF6e6QoqojGrG1J5Rzpxee
 
 
 # Запуск
